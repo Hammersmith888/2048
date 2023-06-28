@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877759818723",
+    "project_id": "merge-blocks-magic-numbe-34981",
+    "storage_bucket": "merge-blocks-magic-numbe-34981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877759818723:android:d0d83727bcc85520c64ed6",
+        "android_client_info": {
+          "package_name": "com.Oriplay.project2048"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877759818723-h4g3e9c4sgtslmp9o3lgb6srf9d144pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4_VXOfmbF6lSVpE_c43IaF6pVDld3zT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877759818723-h4g3e9c4sgtslmp9o3lgb6srf9d144pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
